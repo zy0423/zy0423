@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 https://www.bilibili.com/video/BV1qh411U73y?p=1
 
 - Java资料
-https://www.pdai.tech/md/java/java8/java8-stream.html
-https://github.com/AobingJava/JavaFamily
-https://gitee.com/linjiayu_index/javaLearn/blob/master/pages/total.md
+ - https://www.pdai.tech/md/java/java8/java8-stream.html
+ - https://github.com/AobingJava/JavaFamily
+ - https://gitee.com/linjiayu_index/javaLearn/blob/master/pages/total.md
