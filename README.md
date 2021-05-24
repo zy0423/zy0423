@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - PyTorch学习
-https://www.bilibili.com/video/BV1qh411U73y?p=1
+ - https://www.bilibili.com/video/BV1qh411U73y?p=1
+ - https://tangshusen.me/Dive-into-DL-PyTorch/#/
+ - https://zh-v2.d2l.ai/index.html
 
 - Java资料
  - https://www.pdai.tech/md/java/java8/java8-stream.html
