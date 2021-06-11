@@ -19,4 +19,7 @@ You can click the Preview link to take a look at your changes.
  - https://github.com/AobingJava/JavaFamily
  - https://gitee.com/linjiayu_index/javaLearn/blob/master/pages/total.md
  - https://github.com/youngyangyang04/leetcode-master
- - https://www.yuque.com/lius/java/gvfbmr
+ - https://github.com/forezp/SpringCloudLearning
+ - https://github.com/dyc87112/SpringBoot-Learning/tree/master/2.x
+ - https://github.com/YunaiV/SpringBoot-Labs
+ - https://blog.csdn.net/ThinkWon/article/details/103726655
